@@ -20,7 +20,7 @@ end
 
 def id_hash_generator(number)
   generates = {
-    :key => 7
+    :id => number
   }
   return generates
 end
