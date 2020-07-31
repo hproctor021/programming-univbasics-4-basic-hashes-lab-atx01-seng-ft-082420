@@ -7,6 +7,7 @@ def my_hash
     throw_it: "all away",
     volunteering: "punishment"
   }
+  return my_hash
 end
 
 def pioneer
